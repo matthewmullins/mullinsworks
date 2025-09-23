@@ -8474,7 +8474,7 @@ header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-bra
   color: rgba(255, 255, 255, 0.08);
 }
 .owl-carousel.home-slider .slider-item .slider-text h1 {
-  font-size: 70px;
+  font-size: 80px;
   color: #fff;
   line-height: 1.2;
   font-weight: 700;
@@ -8489,7 +8489,7 @@ header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-bra
   }
 }
 .owl-carousel.home-slider .slider-item .slider-text p {
-  font-size: 30px;
+  font-size: 40px;
   line-height: 1.5;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.8);
