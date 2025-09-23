@@ -513,7 +513,7 @@ header{
 			background-size: cover;
 			background-repeat: no-repeat;
 			background-position: center center;
-			height: calc(100vh - 0);
+			height: 100vh;
 			min-height: 700px;
 			position: relative;
 			.overlay{
@@ -542,7 +542,7 @@ header{
 					color: rgba(255,255,255,.08);
 				}	
 				h1 {
-					font-size: 100px;
+					font-size: 80px;
 					color: $white;
 					line-height: 1.2;
 					font-weight: 700;
@@ -555,7 +555,7 @@ header{
 					}
 				}
 				p {
-					font-size: 50px;
+					font-size: 40px;
 					line-height: 1.5;
 					font-weight: 300;
 					color: rgba(255,255,255,.8);
